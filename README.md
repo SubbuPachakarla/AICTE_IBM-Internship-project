@@ -44,8 +44,8 @@ Built as part of the **Agentic AI Challenge 2025**, this agent streamlines acade
 ---
 
 ## 📸 Screenshots
-> *[Insert screenshots of Watsonx Assistant, Prompt Lab, and output examples]*
-
+![image alt](https://github.com/SubbuPachakarla/AICTE_IBM-Internship-project/blob/8478958bd8bd4de760cc500d709821c63b1f793b/Screenshots/Screenshot%202025-08-01%20122946.png)
+![image alt]()
 ---
 
 ## 🚀 How to Run
