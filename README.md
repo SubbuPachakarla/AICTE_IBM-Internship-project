@@ -87,7 +87,7 @@ Thanks to IBM for providing access to powerful no-code AI tools through Watsonx 
 ---
 
 ## 🔗 GitHub Link  
-> 🌐 **[https://github.com/subrahmanyampanchakarla/research-agent](https://github.com/SubbuPachakarla/research-agent)**
+> 🌐 **[https://github.com/SubbuPachakarla/research-agent](https://github.com/SubbuPachakarla/research-agent)**
 
 ---
 
