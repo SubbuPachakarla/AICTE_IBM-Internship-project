@@ -71,11 +71,6 @@ Built as part of the **Agentic AI Challenge 2025**, this agent streamlines acade
 
 ---
 
-## 📂 Project Structure
-/screenshot          # UI Screenshots  
-/prompts             # Saved prompt templates  
-/docs                # Report and flow diagrams  
-README.md            # Project Overview  
 
 ---
 
