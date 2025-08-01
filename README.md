@@ -53,7 +53,6 @@ Built as part of the **Agentic AI Challenge 2025**, this agent streamlines acade
 2. Launch Watsonx Assistant on IBM Cloud Lite.
 3. Import the custom prompt flows or recreate them using provided instructions.
 4. Use Watsonx.ai Prompt Lab for advanced responses.
-5. [Optional] Integrate Watson Discovery to enable RAG-based search.
 
 ---
 
@@ -87,7 +86,7 @@ Thanks to IBM for providing access to powerful no-code AI tools through Watsonx 
 ---
 
 ## 🔗 GitHub Link  
-> 🌐 **[https://github.com/SubbuPachakarla/research-agent](https://github.com/SubbuPachakarla/research-agent)**
+> 🌐 **[https://github.com/SubbuPachakarla/AICTE_IBM-Internship-project](https://github.com/SubbuPachakarla/AICTE_IBM-Internship-project)**
 
 ---
 
