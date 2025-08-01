@@ -47,6 +47,8 @@ Built as part of the **Agentic AI Challenge 2025**, this agent streamlines acade
 ![image alt](https://github.com/SubbuPachakarla/AICTE_IBM-Internship-project/blob/8478958bd8bd4de760cc500d709821c63b1f793b/Screenshots/Screenshot%202025-08-01%20122946.png)
 ![image alt](https://github.com/SubbuPachakarla/AICTE_IBM-Internship-project/blob/0a405cc9fdf8f8d1f1ba004868adf6dfe3b2c089/Screenshots/Screenshot%202025-08-01%20122808.png)
 ![image alt](https://github.com/SubbuPachakarla/AICTE_IBM-Internship-project/blob/main/Screenshots/Screenshot%202025-08-01%20103623.png?raw=true)
+![image alt](https://github.com/SubbuPachakarla/AICTE_IBM-Internship-project/blob/ee03b39ca4f6253ce5baa989202dd7e4b6d37a10/docs%20flow%20charts/flowchart1.png)
+![image alt]()
 ---
 
 ## 🚀 How to Run
